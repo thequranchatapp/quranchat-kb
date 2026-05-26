@@ -1,0 +1,29 @@
+# Surah Al-Jumu'a (Friday) — English Translation
+
+- **Translator:** Mufti Muhammad Taqi Usmani
+- **Source:** *The Meanings of the Noble Qur'an with Explanatory Notes*
+- **Publisher:** Maktaba Ma'ariful Qur'an
+- **Language:** English
+- **School of Thought (Fiqh):** Hanafi
+- **Revelation Type:** Medinan
+
+---
+
+## Surah Al-Jumu'a (Surah 62)
+
+1. All that is in the heavens and all that is in the earth proclaim the purity of Allah, the Sovereign, the Supreme in Holiness, the All-Mighty, the All-Wise
+2. He is the One who raised amidst the unlettered people a messenger from among themselves who recites to them His verses, and purifies them, and teaches them the Book and the wisdom, while they were earlier in open error
+3. And (this Messenger is sent also) to others from them who did not join them so far, and He is the All-Mighty, the All-Wise
+4. It is Allah’s bounty that He gives to whomsoever He wills, and Allah is the Lord of the great bounty
+5. The example of those who were ordered to bear (the responsibility of acting upon) the Torah, then they did not bear it, is like a donkey that carries a load of books. Evil is the example of those who have rejected Allah’s verses. And Allah does not guide the wrongdoing people
+6. Say, “O you who are Jews, if you claim that you are the friends of Allah to the exclusion of all other people, then express your desire for death, if you are true
+7. And they will never express this desire, because of what their hands have sent ahead. And Allah is fully aware of the wrongdoers
+8. Say, “Indeed, the death from which you (try to) run away has to visit you, then you will be sent back to the Knower of the Unseen and the seen, and He will tell you what you used to do
+9. O you who believe, when the call for Salāh (prayer) is proclaimed on Friday, hasten for the remembrance of Allah, and leave off business. That is much better for you, if you but know
+10. Then once the Salāh is over, disperse in the land, and seek the grace of Allah, and remember Allah abundantly, so that you may be successful
+11. And when they see some merchandise or amusement, they break away to it, and leave you (O prophet,) standing. Say, “What is with Allah is much better than the amusement and the merchandise, and Allah is the best giver of sustenance
+
+---
+
+## Dataset Source
+- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

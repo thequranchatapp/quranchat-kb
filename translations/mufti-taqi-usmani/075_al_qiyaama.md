@@ -1,0 +1,58 @@
+# Surah Al-Qiyaama (The Resurrection) — English Translation
+
+- **Translator:** Mufti Muhammad Taqi Usmani
+- **Source:** *The Meanings of the Noble Qur'an with Explanatory Notes*
+- **Publisher:** Maktaba Ma'ariful Qur'an
+- **Language:** English
+- **School of Thought (Fiqh):** Hanafi
+- **Revelation Type:** Meccan
+
+---
+
+## Surah Al-Qiyaama (Surah 75)
+
+1. I swear by the Day of Resurrection
+2. and I swear by the self-reproaching conscience, (that Resurrection is a reality)
+3. Does man think that We will never reassemble his bones
+4. Why (can We) not (do so), while We are able to reset (even) his fingertips perfectly
+5. But man wishes to go on violating Allah’s injunctions (even in future) ahead of him
+6. He asks, “When will be this Day of Resurrection?”
+7. So, when the eyes will be dazzled
+8. and the moon will lose its light
+9. and the sun and the moon will be joined together
+10. on that day man will say, “Where to escape?”
+11. Never! There will be no refuge at all
+12. On that day, towards your Lord will be the destination (of everyone)
+13. Man will be informed of what he sent ahead and what he left behind
+14. Rather, man will be a witness against himself
+15. even though he may offer his excuses
+16. (O Prophet,) do not move your tongue (during revelation) for (reciting) it (the Qur’ān) to receive it in hurry
+17. It is surely undertaken by Us to store it (in your heart), and to let it be recited (by you after revelation is completed)
+18. Therefore, when it is recited by Us (through the angel), follow its recitation (by concentration of your heart)
+19. Then, it is undertaken by Us to explain it
+20. Never, (your denial of Resurrection is never based on any sound reason!) Instead, you love that which is immediate
+21. and neglect the Hereafter
+22. Many faces, that day, will be glowing
+23. looking towards their Lord
+24. and many faces, that day, will be gloomy
+25. realizing that a back-breaking calamity is going to be afflicted on them
+26. Never, (you will never remain in this world forever!) When the soul (of a patient) reaches the clavicles
+27. and it is said, “Who is an enchanter (that can save him?)”
+28. and he realizes that it is (the time of) departure (from the world)
+29. and one shank is intertwined with the other shank
+30. then on that day, it is to your Lord that one has to be driven
+31. So (the denier of the Hereafter) neither believed, nor prayed
+32. but rejected the truth and turned away (from it)
+33. then he went to his home, puffed up with pride
+34. (It will be said to such a man,) Woe to you, then woe to you
+35. Again, woe to you, then woe to you
+36. Does man presume that he will be left unchecked
+37. Was he not an ejaculated drop of semen
+38. Then he became a clot of blood, then He created (him) and made (him) perfect
+39. and made from him two kinds, male and female
+40. Has He no power to give life to the dead
+
+---
+
+## Dataset Source
+- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

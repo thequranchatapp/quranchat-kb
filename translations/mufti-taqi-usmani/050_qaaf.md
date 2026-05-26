@@ -1,0 +1,63 @@
+# Surah Qaaf (The letter Qaaf) — English Translation
+
+- **Translator:** Mufti Muhammad Taqi Usmani
+- **Source:** *The Meanings of the Noble Qur'an with Explanatory Notes*
+- **Publisher:** Maktaba Ma'ariful Qur'an
+- **Language:** English
+- **School of Thought (Fiqh):** Hanafi
+- **Revelation Type:** Meccan
+
+---
+
+## Surah Qaaf (Surah 50)
+
+1. Qāf . (I swear) by the glorious Qur’ān, (you are sent as a messenger)
+2. But they wonder that a warner has come to them from among themselves; so the disbelievers said, “This is something strange
+3. Is it when we die and become dust (that we will be brought to life again?) That is a return, far (from understanding).”
+4. We know very well how much of them is diminished by the earth, and We have a Book that Preserves every thing
+5. Rather, they rejected the truth when it came to them; so they are in a confused state
+6. Did they not, then, look to the sky above them, how We have built it and beautified it, and it has no cracks
+7. As for the earth, We have spread it out, and cast on it firm hills, and caused to grow therein every kind of delightful things
+8. as a source of vision and as a lesson to every servant (of Allah) who turns (to Him for guidance)
+9. And We sent down blessed water from the sky, and caused to grow therewith gardens and grain of harvest
+10. and towering date palms that have spadices, put one upon another
+11. as a provision to the servants (of Allah). And We gave life with it to a dead land. Similar will be the exit (of the dead from their graves)
+12. It (resurrection) was rejected before them by the people of NūH, and the people of Rass and Thamūd
+13. and ‘Ād, and Fir’aun (Pharaoh), and the brothers of LūT
+14. and dwellers of Aaikah, and the people of Tubba’. Each one of them rejected the messengers; so My threat came true
+15. Is it, then, that We were worn out by the first creation? No, but they are still in confusion about the new creation
+16. Indeed We have created man, and We know whatever thoughts his inner self develops, and We are closer to him than (his) jugular vein
+17. when the two receiving angels receive (every human act to record it), seated (one) on the right and (one) on the left
+18. Not a single word is uttered by one but there is a watcher near him, ready (to record)
+19. The daze of death has (to) come with truth. That is what you tried to escape
+20. And the Horn will be blown. That will be the day of (which) threat (was given)
+21. And everybody will come, along with one (angel) to drive (him to the field of reckoning) and one (angel) to testify (about his deeds)
+22. “You were heedless of this. Now We have removed your veil from you; so your sight today is sharp.”
+23. And his companion (i.e. the angel who recorded his deeds) will say, “This is what I have with me, ready (to be presented as his record of deeds).”
+24. (Then it will be said,) “Cast, (O two angels,) into Jahannam (Hell) every obstinate disbeliever
+25. who used to prevent (others) from good (behavior), who transgressed all bounds, who cast doubts (in true faith)
+26. who set up another god along with Allah. So cast him (O angels) in the painful punishment.”
+27. His (evil) companion (i.e. the Satan) will say, “O our Lord, I did not cause him to rebel, but he was himself (involved) in straying far from the track.”
+28. He (Allah) will say, “Do not quarrel before Me, while I had sent to you My threat well in advance
+29. The Word is not changed with Me, and I Am not so unjust to My servants.”
+30. (Remind them of) the Day when We will say to Jahannam (Hell), “Are you filled up?” and it will say, “Are there some more?”
+31. And the Jannah (Paradise) will be brought close for the God-fearing, no longer distant
+32. (And it will be said,) “This is what you were promised for everyone who was oft-returning to Allah, vigilant (against sins)
+33. the one who feared the RaHmān (The All-Merciful Allah), without seeing Him, and came up with a heart oriented towards Him
+34. Enter it in peace. That is the Day of Eternity.”
+35. They will have in it whatever they wish, and with Us there are things even more than that
+36. And how many a generation We have destroyed before them who were stronger than these in their grip on power, and they searched out the cities. Was there any place (for them) to escape
+37. Indeed, there is a lesson in all this for him who has a heart and gives ear (to the truth) attentively
+38. We created the heavens and the earth and all that is between them in six days, and no weariness even touched Us
+39. So, (O Prophet,) endure with patience what they say, and proclaim His purity, along with your Lord’s praise, before sunrise and before sunset
+40. And in hours of night, proclaim His purity, and at the ends of prostration
+41. And listen: The Day when the caller will call out from a near place
+42. the Day they will hear the Cry in reality- that will be the Day of Resurrection
+43. Surely We alone give life and bring death, and to Us is the final return
+44. on the Day when the earth will burst apart exposing them, while they will be hurrying up (to come out). That is an assembly, so easy for Us (to muster)
+45. We know well what they say, and you are not (sent) as one who compels them. So exhort, through the Qur’ān, the one who fears My warning
+
+---
+
+## Dataset Source
+- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -1,0 +1,29 @@
+# Surah Al-Aadiyaat (The Chargers) — English Translation
+
+- **Translator:** Mufti Muhammad Taqi Usmani
+- **Source:** *The Meanings of the Noble Qur'an with Explanatory Notes*
+- **Publisher:** Maktaba Ma'ariful Qur'an
+- **Language:** English
+- **School of Thought (Fiqh):** Hanafi
+- **Revelation Type:** Meccan
+
+---
+
+## Surah Al-Aadiyaat (Surah 100)
+
+1. (I swear) by those (horses) that run snorting
+2. then those that create sparks by striking (their hoofs) on the stones
+3. then those that invade at morning
+4. then raise, at the same time, a trail of dust
+5. then enter, at the same time, into the centre of the (opposing) host
+6. man is, indeed, very ungrateful to his Lord
+7. and he himself is a witness to that fact
+8. and in his love for wealth, he is very intense
+9. Does he not then know (what will happen) when all that is contained in the graves will be overturned
+10. and all that is contained in the hearts will be exposed
+11. Surely your Lord, that day, is fully aware of them
+
+---
+
+## Dataset Source
+- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -1,0 +1,58 @@
+# Surah An-Naba (The Announcement) — English Translation
+
+- **Translator:** Mufti Muhammad Taqi Usmani
+- **Source:** *The Meanings of the Noble Qur'an with Explanatory Notes*
+- **Publisher:** Maktaba Ma'ariful Qur'an
+- **Language:** English
+- **School of Thought (Fiqh):** Hanafi
+- **Revelation Type:** Meccan
+
+---
+
+## Surah An-Naba (Surah 78)
+
+1. About what are they asking each other
+2. About the Great Event
+3. in which they dispute
+4. Indeed they will soon know
+5. Again, indeed they will soon know
+6. Did We not make the earth a floor
+7. and the mountains bulwarks
+8. And We have created you in pairs
+9. and made your sleep a source of rest
+10. and made the night a covering
+11. and made the day a source of livelihood
+12. And We have built seven strong (skies)
+13. and created a luminous lamp (the sun)
+14. And We have sent down abundant water from the rain-laden clouds
+15. so that We bring out therewith grain and vegetation
+16. and thick gardens
+17. Surely the Day of Decision is an appointed time
+18. a day when the trumpet will be blown, so you will come in multitudes
+19. and the sky will be opened, so it will become as gates
+20. and the mountains will be set in motion, so they will be as mirage
+21. Surely Jahannam (the Hell) lurks in ambush
+22. (It is) abode for the rebellious people
+23. who will be abiding in it for ages
+24. They will taste nothing cool in it, nor a drink
+25. except boiling water and pus
+26. this being a punishment, fully commensurate (with their deeds)
+27. They did not expect (to face) accounting (of their deeds)
+28. and they rejected Our signs totally
+29. And everything (from their deeds) is thoroughly recorded by Us in writing
+30. “So now taste! We will add nothing to you but torment.”
+31. Of course, the God-fearing will have great achievement
+32. gardens and grapes
+33. and buxom maidens of matching age
+34. and goblets filled up to the brim
+35. They will not hear any vain talk therein, nor lies
+36. this being a reward from their Lord, a well calculated grant
+37. (from) the Lord of the heavens and the earth and what is between them, the All-Merciful. No one will have power to address Him
+38. on the Day when the Spirit and the angels will stand in rows. They will not speak, except the one who is permitted by the RaHmān (the All-Merciful Allah) and speaks aright
+39. That is the Day that is sure to come. So whoever so wishes may take refuge with his Lord
+40. We have warned you of an approaching torment (that will be inflicted) on a day when one will see what his hands have sent ahead, and the disbeliever will say, “O would that I had turned into dust.”
+
+---
+
+## Dataset Source
+- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)
