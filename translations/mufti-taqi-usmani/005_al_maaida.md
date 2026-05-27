@@ -131,8 +131,3 @@
 118. If You punish them, they are Your slaves after all, but if You forgive them, You are the Mighty, the Wise.”
 119. Allah will say, “This is a day on which the truth of the truthful shall benefit them. For them there are gardens beneath which rivers flow, where they will live forever. Allah is well-pleased with them and they are well-pleased with Him. That is the great achievement
 120. To Allah belongs the kingdom of the heavens and the earth and of whatever lies therein, and He is powerful over everything
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

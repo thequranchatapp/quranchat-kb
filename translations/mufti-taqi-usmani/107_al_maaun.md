@@ -18,8 +18,3 @@
 5. who are neglectful of their Salāh
 6. who (do good only to) show off
 7. and refuse (to give even) small gifts
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

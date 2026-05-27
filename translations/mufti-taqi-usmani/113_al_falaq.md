@@ -16,8 +16,3 @@
 3. and from the evil of the dark night when it penetrates
 4. and from the evil of the women who blow on the knots
 5. and from the evil of an envier when he envies
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

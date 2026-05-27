@@ -2177,9 +2177,3 @@ Surah Al-An'-am began with Hamd (the praise of Allah) and concluded on Maghfirah
 It appears in Hadith that the Holy Prophet ﷺ said: Surah Al-An` am, the whole of it, was revealed at one time. Such was the majesty of its revelation that seventy thousand angels followed behind it reciting Tasbih (glorifying Allah). Therefore, Sayyidna Faruq al-A` zam ؓ said: Surah Al-An'-am is one of the highly merited Surahs of the Holy Qur'an.
 In some narrations, it has been reported from Sayyidna ` Ali ؓ that Allah Ta` ala would become the healer of the sick person over whom this Surah is recited.
 وَآخِرُ دَعوَانَا اَنِ الحمدُ للہِ رَبِّ العٰلَمِینَ
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

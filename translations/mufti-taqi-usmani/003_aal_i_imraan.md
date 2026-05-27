@@ -211,8 +211,3 @@
 198. But those who fear their Lord, for them there are Gardens beneath which rivers flow, where they will live forever - as hospitality from Allah. What is with Allah is best for the righteous
 199. Surely, among the people of the Book there are those who believe in Allah, and in what has been sent down to you and what has been sent down to them, humbling themselves before Allah. They do not barter away the verses of Allah for paltry (worldly) gains. They have their reward with their Lord. Surely, Allah is swift at reckoning
 200. O you who believe, be patient, compete with each other in patience, and guard your frontiers and fear Allah, so that you may be successful
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -22,8 +22,3 @@
 9. O you who believe, when the call for Salāh (prayer) is proclaimed on Friday, hasten for the remembrance of Allah, and leave off business. That is much better for you, if you but know
 10. Then once the Salāh is over, disperse in the land, and seek the grace of Allah, and remember Allah abundantly, so that you may be successful
 11. And when they see some merchandise or amusement, they break away to it, and leave you (O prophet,) standing. Say, “What is with Allah is much better than the amusement and the merchandise, and Allah is the best giver of sustenance
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

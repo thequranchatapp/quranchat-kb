@@ -25,8 +25,3 @@
 12. (If you do this,) He will forgive your sins, and will admit you to gardens beneath which rivers flow, and to pleasant dwellings in gardens of eternity. That is the great achievement
 13. And (He will give you) another thing, which you love: Help from Allah, and victory, near at hand
 14. O you who believe, be supporters of (the religion of) Allah, just as ‘Īsā, son of Maryam, said to the Disciples, “Who are my supporters towards Allah?” The Disciples said, “We are the supporters of (the religion of) Allah.” So a group from the children of Isrā’īl believed, and another group disbelieved. Then We supported those who believed against their enemy, and they became victors
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

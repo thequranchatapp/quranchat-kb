@@ -19,8 +19,3 @@
 6. Surely those who disbelieved from among the People of the Book and the polytheists will be in the fire of Jahannam , in which they will be living forever. Those are the worst of all human beings
 7. As for those who believed and did righteous deeds, they are the best of all human beings
 8. Their reward, with their Lord, is gardens of eternity beneath which rivers flow, in which they will be abiding forever. Allah is well pleased with them, and they are well pleased with Him. That (reward) is for him who has awe of his Lord
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

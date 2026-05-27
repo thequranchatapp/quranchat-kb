@@ -2818,9 +2818,3 @@ After having reported this hadith, Imam al-Qurtubi (رح) has said that in the l
 Special Note:
 In this verse, Muslims have been instructed to remain patient which is possible any time under all conditions. Relevant details have appeared earlier. The second instruction given is to be more patient than others which is to be demonstrated while fighting disbelievers. The third instruction relates to a situation when an armed conflict with disbelievers is likely and there is the danger that fighting may erupt anytime. Finally comes the instruction to observe Taqwa (fear of Allah) which is the essence of everything one does and on which depends the Divine acceptance of what has been done. This set of instructions is the sum of almost all injunctions of the Shari` ah. May Almighty Allah give all of us the best of ability to act in accordance with these instructions.
 The Commentary on Surah 'Al-` Imran ends here.
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

@@ -545,9 +545,3 @@ While promising to the Holy Prophet ﷺ that he will be brought back by Allah to
 كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ (Everything is going to perish except His Face - 28:88). The word 'His Face' in this verse means the very Being of Allah Ta’ ala. Hence, the meaning of the verse is that except for Allah Ta’ ala everything is mortal and will get destroyed and will vanish. Some commentators have taken the phrase' His Face' to mean the good deeds performed by human beings exclusively for Allah Ta’ ala. In that case the meaning of the verse would be that those actions which are performed exclusively for Allah Ta’ ala will not be destroyed, while all other things will perish.
 اَلحَمدُ للہ Al-hamdulillah, today on Dhulqa'dah 9, 1391-H (September 1971), the commentary on Surah Al-Qasas has concluded in such conditions that Pakistan was attacked by India and the unholy alliance of the big powers. For fourteen days Karachi was bombarded daily. The city was severely damaged. Hundreds of Muslims were martyred, and many a houses were demolished. Fourteen days war finished on the sad note that East Pakistan is cut off from Pakistan, and about ninety thousand troops have surrendered there. Killing is still going on in East Pakistan. Every Muslim is stuck with grief and bewilderment.
 إِنَّا لِلَّـهِ وَإِنَّا إِلَيْهِ رَ‌اجِعُونَ و الیہ المشتکی ولا منجا من اللہ اِلَّا اِلیہ
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

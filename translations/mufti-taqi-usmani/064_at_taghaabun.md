@@ -29,8 +29,3 @@
 16. So, observe taqwā (total obedience to Allah in awe of Him) as far as you can, and listen and obey, and spend (in Allah’s way), it being good for you. And those who are saved from the greed of their hearts are the successful
 17. If you advance a good loan to Allah, He will multiply it for you, and will forgive you. And Allah is Appreciative, Forbearing
 18. the Knower of the Unseen and the seen, the All-Mighty, the All-Wise
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

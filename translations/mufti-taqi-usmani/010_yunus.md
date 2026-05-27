@@ -120,8 +120,3 @@
 107. If Allah brings some harm to you, there is none to remove it except He. And if He intends to bring some good to you, there is none to turn His grace back. He brings it to whomever He wills from among His servants. He is the Most-Forgiving, the Very Merciful
 108. Say, “O people, the truth has come to you from your Lord. So, whoever accepts guidance accepts it to his own benefit, and whoever goes astray does so to his own detriment. And I am not responsible for you.”
 109. Follow what is being revealed to you, and be patient until Allah gives His judgment, and He is the best of all judges
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

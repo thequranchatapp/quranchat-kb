@@ -1233,9 +1233,3 @@ The Tafsir of the two words: Zalum and Jahul that has been reported above from m
 The Commentary on
 Surah Al-Ahzab ends here
 With the help of and praise for Allah Ta’ ala
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

@@ -31,8 +31,3 @@
 18. Those are the People of the Right Hand. (i.e. their books of deeds will be given in their right hands)
 19. As for those who reject Our verses, they are the People of the Left Hand. (i.e. their books of deeds will be given in their left hands)
 20. Upon them will be the Fire, enveloping them with closed exits
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

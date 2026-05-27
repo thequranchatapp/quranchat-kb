@@ -122,8 +122,3 @@
 109. They fall down on their faces weeping, and it increases humbleness in their hearts
 110. Say, “Call (Him by the name of) Allah or Ar-RaHmān, in whichever way you call, His are the Best Names.” Do not be (too) loud in your Salāh, nor be (too) low in it, and seek a way in between
 111. Say, “Praise belongs to Allah who has neither had a son, nor is there any partner to Him in His kingdom, nor is anyone (needed) to protect Him from (any) weakness. And proclaim His greatness, an open proclamation
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

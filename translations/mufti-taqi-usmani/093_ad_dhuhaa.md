@@ -22,8 +22,3 @@
 9. Therefore, as for orphan, do not oppress him
 10. and as for the beggar, do not scold him
 11. And about the bounty of your Lord, do talk
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

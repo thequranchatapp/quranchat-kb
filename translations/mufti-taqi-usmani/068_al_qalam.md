@@ -63,8 +63,3 @@
 50. Then his Lord chose him, and made him one of the righteous
 51. And indeed the disbelievers seem to trip you up with their glances when they hear the Reminder, and say, “He is a madman indeed.”
 52. And it is nothing else but a Reminder for all the worlds
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

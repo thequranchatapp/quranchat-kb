@@ -56,8 +56,3 @@
 43. Surely We alone give life and bring death, and to Us is the final return
 44. on the Day when the earth will burst apart exposing them, while they will be hurrying up (to come out). That is an assembly, so easy for Us (to muster)
 45. We know well what they say, and you are not (sent) as one who compels them. So exhort, through the Qur’ān, the one who fears My warning
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -319,9 +319,3 @@ The word aula is the inverted form of wail which means ' The expression 'woe' ha
 بلی وانا علی ذالک من الشھدین۔ "Yes indeed I am among those who bear witness
 that He has the power to do it"'. The same Hadith narrative states that
 when a person recites Surah Tin and reaches the verse اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِيْنَ 'Is Allah not the Greatest Ruler of all the rulers? [ 95:8] ', he should utter the same words. The same Hadith states that when a person recites Surah Al-Mursalat and reaches the verse U ;'Now, in which discourse, after this, will they believe? [ 77:50] ', he should say فَبِاَيِّ حَدِيْثٍۢ بَعْدَهٗ يُؤْمِنُوْنَ 'I believe in Allah'
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

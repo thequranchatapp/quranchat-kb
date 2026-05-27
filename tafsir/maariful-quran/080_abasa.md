@@ -356,9 +356,3 @@ The Chapter ends on a note of warning to disbelievers that if they reject the Qu
 
 يَوْمَ يَفِرُّ‌ الْمَرْ‌ءُ مِنْ أَخِيهِ (the Day when one will flee from his brother...80:34). This depicts the scene when all the people will have gathered in the Plain of Gathering. Each person will be worried about himself, and the situation will be so horrifying and tense that it will make people heedless of anything around them. In the world, there are relationships between people that make one willing to lay down his life for the other, but on the Day of Resurrection there will be such horror and chaos that they will be unable to take care of anyone. In fact, even if one sees the other in front of him, he will turn away from him. They will try to flee from their brothers, from their mothers and fathers, from their spouses and their children. They will not be able to help any of them in the Hereafter, despite the natural attachment they had with them in the world. Normally, one is more anxious in this world about his parents than about his brothers, and he is more anxious about his wife and children than about his parents. Keeping this in view, the relationships, in the present verse, are arranged from lower order to higher order.
 The Chapter ends on a note of warning to disbelievers that if they reject the Qur’ anic message and persist in opposition to the Holy Prophet ﷺ they will have to face a day of reckoning when misery, shame and ignominy will be their lot. The righteous believers, however, will reside in Gardens of Bliss, their faces beaming with joy and happiness.
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

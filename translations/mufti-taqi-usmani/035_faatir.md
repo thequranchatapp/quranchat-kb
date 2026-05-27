@@ -56,8 +56,3 @@
 43. because of their showing arrogance in the land and plotting of evil. And the evil plot engulfs none but its own people (who make it). So, they are looking for nothing but the (divine) practice with the earlier people. So you will never find in Allah’s practice any change, and you will never find in Allah’s practice any diversion
 44. Did they not travel in the land and see how was the end of those before them? They were stronger than these in power. Allah is not such that something in the heavens or the earth can frustrate Him. Surely He is All-Knowing, All-Powerful
 45. If Allah were to take mankind to task for what they did, He would have not left a living creature on its back, but He delays them upto an appointed time. So when their time will come, then Allah is the One who will see His slaves
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

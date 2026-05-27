@@ -140,8 +140,3 @@
 127. And when a Sūrah is sent down, they look at each other (as if saying): “Is there someone watching you?” Then they turn away. Allah has turned their hearts, because they are a people who do not understand
 128. Surely, there has come to you, from your midst, a Messenger who feels it very hard on him if you face a hardship, who is very anxious for your welfare, and for the believers he is very kind, very merciful
 129. So, if they turn away, say (O Messenger,) “Enough for me is Allah. There is no god but He. In Him I have placed my trust, and He is the Lord of the Great Throne.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

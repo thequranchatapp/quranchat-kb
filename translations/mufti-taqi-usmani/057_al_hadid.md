@@ -40,8 +40,3 @@
 27. Then We made Our messengers follow them one after the other, then We sent after them ‘Īsā, the son of Maryam (Jesus, son of Mary), and gave him the Injīl, and placed compassion and mercy in the hearts of his followers. As for monasticism, it was invented by them; We did not ordain it for them, but (they adopted it) to seek Allah’s pleasure, then could not observe it as was due. So We gave the believers from among them their reward. And many of them are sinners
 28. O you who believe, fear Allah, and believe in His Messenger, and He will give you two shares (of reward) out of His mercy, and will make for you a light whereby you will walk, and will forgive you- And Allah is Most-Forgiving, Very-Merciful
 29. so that the People of the Book may know that they have no control over any thing from Allah’s bounty, and that bounty is in Allah’s hand; He gives it to whom He wills, and Allah is the Lord of the great bounty
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

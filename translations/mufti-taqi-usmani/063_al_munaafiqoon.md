@@ -22,8 +22,3 @@
 9. O you who believe, your riches and your children must not divert you from the remembrance of Allah. And those who do that are the losers
 10. And spend out of what We have given to you before death overtakes one of you and he says, “My Lord, would you not give me respite to a near term, so that I should pay Sadaqah (alms) and become one of the righteous?”
 11. But Allah will never give respite to anyone, once his appointed time will come. And Allah is All-Aware of what you do
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

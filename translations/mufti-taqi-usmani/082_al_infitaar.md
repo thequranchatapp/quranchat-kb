@@ -30,8 +30,3 @@
 17. And what may let you know what the Day of Requital is
 18. Again, what may let you know what the Day of Requital is
 19. A Day when no one will have power to do any thing for another! And command, on that Day, will belong to Allah (alone)
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

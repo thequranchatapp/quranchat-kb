@@ -123,8 +123,3 @@
 110. Surely, He knows what is spoken openly and He knows what you conceal
 111. And I do not know; perhaps it is a trial for you and an enjoyment for a while.”
 112. He (Our Messenger) said, “My Lord, judge with truth. And Our Lord is the RaHmān (All-Merciful), the One whose help is sought against what you describe
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

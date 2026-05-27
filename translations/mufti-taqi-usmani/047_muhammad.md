@@ -49,8 +49,3 @@
 36. The worldly life is but play and pastime. If you believe and be God-fearing, He will give you your rewards, and will not ask you your riches
 37. If He were to ask you of it, and press you (to spend all your wealth), you would show miserliness, and He would expose your disgusts
 38. Yes, you are such that you are called upon to spend in Allah’s way, but some of you withhold in miserliness- and he who withholds in miserliness withholds against himself- and Allah is the Need-Free, and you are the needy. And if you turn away, He will replace you by some other people, then they will not be like you
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

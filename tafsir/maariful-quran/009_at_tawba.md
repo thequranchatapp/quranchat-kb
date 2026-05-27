@@ -1385,9 +1385,3 @@ That this theme appears at the end of Surah At-Taubah happens to be very appropr
 
 The last two verses, according to Sayyidna ` Ubaiyy ibn Ka'b ؓ ، are the last verses of the Qur'an. After these no other verse was revealed and the Holy Prophet ﷺ left the mortal world. This is also the statement of Sayyidna Ibn ` Abbas ؓ . (Qurtubi)
 Great merits of these two verses appear in Hadith. Sayyidna Abu-d-Darda' ؓ says, ` One who recites these verses three times, morning and evening, shall find that Allah Ta` ala makes things easy for him (Qurtubi) ' Allah knows best.
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

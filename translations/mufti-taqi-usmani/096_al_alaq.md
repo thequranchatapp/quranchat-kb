@@ -30,8 +30,3 @@
 17. So let him call the men of his council
 18. We will call the soldiers of the Hell
 19. No! Never obey him, and bow down in sajdah, and come close to Me
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

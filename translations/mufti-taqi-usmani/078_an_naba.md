@@ -51,8 +51,3 @@
 38. on the Day when the Spirit and the angels will stand in rows. They will not speak, except the one who is permitted by the RaHmān (the All-Merciful Allah) and speaks aright
 39. That is the Day that is sure to come. So whoever so wishes may take refuge with his Lord
 40. We have warned you of an approaching torment (that will be inflicted) on a day when one will see what his hands have sent ahead, and the disbeliever will say, “O would that I had turned into dust.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

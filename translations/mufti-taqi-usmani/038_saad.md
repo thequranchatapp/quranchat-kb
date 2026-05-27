@@ -99,8 +99,3 @@
 86. Say (O Prophet to the unbelievers,) “I do not demand from you any fee for it, nor am I from among those who make up things artificially
 87. It is nothing but an advice for all the worlds
 88. And you will come to know its reality after a while.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

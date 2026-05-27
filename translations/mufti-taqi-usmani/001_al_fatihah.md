@@ -17,9 +17,3 @@
 5. You alone do we worship, and You alone do we turn for help.
 6. Direct us on to the Straight Way.
 7. The way of those whom You have favoured, who did not incur Your wrath, who are not astray.
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)
-

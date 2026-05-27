@@ -129,8 +129,3 @@
 116. So, High above all is Allah, the King, the True. There is no god but He, the Lord of the Noble Throne
 117. And whoever invokes another god with Allah, while he has no proof for it, his reckoning is only with his Lord. Surely, the infidels will not achieve success
 118. And say (O prophet) “My Lord, grant pardon and have mercy, for you are the best of all the merciful.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

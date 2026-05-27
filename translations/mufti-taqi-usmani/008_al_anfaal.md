@@ -86,8 +86,3 @@
 73. And those who disbelieve are friends to each other. If you do not do so, there shall be disorder on the earth, and a great corruption
 74. Those who have believed and emigrated and carried out Jihād in the way of Allah, and those who gave refuge and help, both are the believers in truth. For them there is forgiveness and a respectful provision
 75. Those who believed later on and emigrated and carried out Jihād alongwith you, then, they are joined with you. As for the womb-relatives, they are closer to one another according to the Book of Allah. Surely, Allah is aware of every thing
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

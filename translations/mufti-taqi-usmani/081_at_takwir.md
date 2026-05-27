@@ -40,8 +40,3 @@
 27. It is nothing else but a message of advice for all the worlds
 28. for the benefit of any one from among you who intends to go straight
 29. And you cannot intend (to do anything) unless it is so willed by Allah, the Lord of all the worlds
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

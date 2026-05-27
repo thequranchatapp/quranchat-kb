@@ -26,8 +26,3 @@
 13. So, the Messenger of Allah said to them, “Be careful of Allah’s she-camel and her right to drink.”
 14. But they rejected him and killed her, so their Lord sent eradicating torment upon them because of their sin, and made it equal for all
 15. And He has no fear of its consequence
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

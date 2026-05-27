@@ -15,8 +15,3 @@
 2. Allah is Besought of all, needing none
 3. He neither begot anyone, nor was he begotten
 4. And equal to Him has never been any one.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

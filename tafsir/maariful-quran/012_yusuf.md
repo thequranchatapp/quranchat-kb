@@ -1115,9 +1115,3 @@ that is, of the books revealed before it - because, this story of Sayyidna Yusuf
 And in the last sentence of the verse, it is said: وَتَفْصِيلَ كُلِّ شَيْءٍ وَهُدًى وَرَ‌حْمَةً لِّقَوْمٍ يُؤْمِنُونَ , that is, this Qur’ an is ` an elaboration of everything' (which means that the Qur’ an has details of everything which human beings need in religion - in fields like ` Ibadat (worship of Allah), dealings, morals, social living, government, politics and many others, including injunctions and instructions about all individual and collective concerns of human life - they are all there).
 Then, it was said that this Qur'an is ` guidance and mercy for a people who believe.' The restriction of those who have 'Iman or Faith has been placed here because its benefit can be enjoyed by only those who believe. It goes without saying that, though the Qur'an is nothing but mercy and guidance for disbelievers as well, but it is due to their own misconduct and disobedience that this mercy and guidance has become heavy and unwholesome for them.
 Shaykh Abu al-Mansur has said: The purpose behind the whole Surah Yusuf and the story of Sayyidna Yusuf (علیہ السلام) narrated therein is to comfort the Holy Prophet ﷺ `. All this is to tell him that his sufferings at the hands of his people have been the lot of past prophets too. But, in the end, Allah Ta` ala enabled his prophets to overcome - and in his case too, this is what was going to happen.
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

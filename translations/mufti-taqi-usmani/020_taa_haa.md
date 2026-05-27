@@ -146,8 +146,3 @@
 133. They say, “Why does he not bring to us a sign from his Lord?” Has there not come to them the clear sign of what is contained in the earlier Scriptures
 134. And if We had destroyed them with a punishment before it, they would have said, “Our Lord, why did you not send a messenger to us, so that we might have followed Your signs before we were humiliated and put to disgrace?”
 135. Say, “Everyone is waiting. So wait, then you will know who the people of the straight path are and who has followed the right guidance.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -53,8 +53,3 @@
 40. and many faces, on that day, will be stained with dust
 41. covered by darkness
 42. Those are the disbelievers, the nefarious
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

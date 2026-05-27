@@ -39,8 +39,3 @@
 26. (He is the) Knower of the Unseen. So He does not let anyone know the Unseen created by Him
 27. except a messenger whom He chooses (to inform through revelation), and then He appoints (angels as) watching guards before him and behind him, (so that devils may not tamper with the divine revelation)
 28. so that He knows that they (angels) have conveyed the messages of their Lord. And He has encompassed all that is with them, and has comprehensive knowledge of every thing by numbers
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

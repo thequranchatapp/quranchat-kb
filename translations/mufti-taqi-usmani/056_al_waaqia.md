@@ -107,8 +107,3 @@
 94. and burning in the Hell
 95. Indeed this is certainty in its true sense
 96. So, proclaim purity of the name of your Lord, the Magnificent
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

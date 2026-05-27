@@ -134,9 +134,3 @@ The Commentary on
 Surah Al-Kafirun
 Ends here
 denounces such treaties, and declares dissociation from paganism. Analyzing the peace pact with the Jews, on the other hand, it is seen clearly that it did not in any way require Muslims to denounce or renounce Islam, nor did it require them to mix elements of un-Islamic beliefs with the true faith. Islam is the religion that stands for tolerance, kindness, politeness and peace more than any other religion. However, all these ethical principles can be applied in the matters of human rights. There is no room for compromise in the matter of Divine Law or the basic tenets of Divine religion. Allah knows best!
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

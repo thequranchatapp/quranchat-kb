@@ -139,8 +139,3 @@
 126. And if you were to harm (them) in retaliation, harm them to the measure you were harmed. And if you opt for patience, it is definitely much better for those who are patient
 127. And be patient. Your patience is bestowed by none but Allah, and do not grieve over them, and do not be in distress for what they devise
 128. Surely, Allah is with those who fear Him and those who are good in their deeds
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -71,8 +71,3 @@
 58. Indeed We have given in this Qur’ān all kinds of examples for the benefit of mankind. (Still) if you bring to them a sign, the disbelievers will certainly say, “You are nothing but men of falsehood.”
 59. Thus Allah seals up the hearts of those who do not believe
 60. So, be patient. Surely Allah’s promise is true, and let not the disbelievers shake your firmness
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

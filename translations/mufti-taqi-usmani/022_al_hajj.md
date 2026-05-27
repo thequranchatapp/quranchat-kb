@@ -89,8 +89,3 @@
 76. He knows what is in front of them and what is behind them, and to Allah all matters are to be returned
 77. O you who believe, bow down in Rukū‘ and bow down in Sajdah, and worship your Lord and do good deeds, so that you achieve success
 78. Struggle for (seeking the pleasure of) Allah, a struggle that is owed to Him. He has chosen you and did not impose any hardship on you in the religion, the faith of your father Ibrāhīm. He (Allah) named you as Muslims earlier and also in this (Qur’ān), so that the Messenger becomes a witness to you, and you become witnesses to (other) people. So establish Salāh, pay Zakāh and hold fast to Allah. He is your patron. So, how excellent He is as a patron, and how excellent as a supporter
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

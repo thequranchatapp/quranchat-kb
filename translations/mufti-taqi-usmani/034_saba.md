@@ -65,8 +65,3 @@
 52. And they will say, “We believe in Him.” And how can they grasp at it (the faith) from a place (so) far off
 53. while they had rejected it before, and used to make conjectures from a remote place
 54. And a barrier will be placed between them and that which they desire, as it will be done with the people of their kind who were before (them). They have been in a perplexing doubt
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

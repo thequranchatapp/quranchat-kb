@@ -14,8 +14,3 @@
 1. (O Prophet,) When there comes Allah’s help and the Victory
 2. and you see people entering Allah’s (approved) religion in multitudes
 3. then pronounce the purity and praise of your Lord, and seek forgiveness from Him. Surely He is Ever-Relenting
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

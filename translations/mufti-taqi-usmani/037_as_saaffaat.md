@@ -193,8 +193,3 @@
 180. Pure is your Lord, the Lord of all might and honor, from what they describe
 181. and Salām be on the messengers
 182. and praised is Allah, the Lord of all the worlds
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

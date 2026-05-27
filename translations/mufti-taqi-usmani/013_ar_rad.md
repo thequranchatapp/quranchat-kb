@@ -54,8 +54,3 @@
 41. Have they not seen that We are coming to the land narrowing it down from all its sides? Allah judges; there is none to repel His judgement. And He is swift at reckoning
 42. Those before them did devise plans, but all the real plans belong only to Allah. He knows what every soul earns, and the disbelievers will soon know for whom is the excellent end
 43. The disbelievers say, “You are not a messenger.” Say, “Allah is sufficient as a witness between me and you, and those too (are my witnesses) who have the knowledge of the Book.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

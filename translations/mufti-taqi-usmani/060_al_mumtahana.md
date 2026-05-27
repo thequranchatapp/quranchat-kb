@@ -24,8 +24,3 @@
 11. And if some of your (Non-Muslim) wives have slipped from you, (and their present Non-Muslim husbands do not pay to you the dower as aforesaid,) and you have your turn (of paying dower to the previous Non-Muslim husbands of your present wives), then (instead of paying dower to them,) give those whose wives have slipped the like amount of what they had paid (to them). And fear Allah, the One in whom you believe
 12. O you who believe, when the believing women come to you, seeking bai’ah (a pledge of allegiance) with you that they will not ascribe any partner to Allah, and will not commit theft, and will not commit fornication,and will not kill their children, and will not come up with a false claim (about the parentage of a child) that they falsely attribute (to the sperm of their husbands being dropped) between their hands and their feet (i.e. their private parts), and will not disobey you in what is recognized (in Sharī‘ah), then take them in your bai’ah, and pray Allah for their forgiveness. Surely Allah is Most-Forgiving, Very-Merciful
 13. O you who believe, do not have friendship with a people with whom Allah is angry. They have despaired from the Hereafter as the infidels have despaired from those (buried) in the graves
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

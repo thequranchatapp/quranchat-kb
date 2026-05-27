@@ -89,8 +89,3 @@
 76. (The people of these gardens will be) reclining on green cushions and marvelously beautiful mattresses
 77. So, which of the bounties of your Lord will you deny
 78. Glorious is the name of your Lord, the Lord of Majesty, the Lord of Honour
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

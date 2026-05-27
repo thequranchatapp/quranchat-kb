@@ -36,8 +36,3 @@
 23. And Allah is most aware of what they store
 24. So, give him the ‘good news’ of a painful punishment
 25. but those who believed and did righteous deeds will have a reward that will never be interrupted
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

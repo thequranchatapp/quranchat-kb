@@ -96,8 +96,3 @@
 83. When their messengers came to them with manifest signs, they exulted because of whatever knowledge they had, and they were encircled by what they used to ridicule
 84. When they saw Our punishment, they said, “We have (now) come to believe in Allah alone, and We have rejected everything we used to ascribe (to Him) as partners.”
 85. But, their profession of faith was not (competent) to benefit them, once they had seen Our punishment - a customary practice of Allah that has been there all along in the matter of His servants - and hence, the disbelievers became the losers
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -283,9 +283,3 @@ This is the subject of these oaths. It means that the Day of Judgment, Reckoning
 ### Verse 50
 
 فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ (Now, in which discourse, after this, will they believe? ...77:50) The Holy Qur'an is the last Book of Allah which explains its message and wisdom most lucidly, excellently, eloquently, elegantly, and its arguments most convincingly. Its style is extremely effective and the admonition soul-capturing. If they do not believe in such a Book, then for which word are they waiting? This is to express disappointment in them. A Hadith narrative instructs that when one recites this verse, he should say 'I believe in Allah'. This statement must be made outside the prayer, or in voluntary prayer. He must abstain from this statement in obligatory and Sunnah prayer. Hadith narratives are clear on this point. And Allah knows best!
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

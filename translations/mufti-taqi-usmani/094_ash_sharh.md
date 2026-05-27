@@ -19,8 +19,3 @@
 6. Undoubtedly, along with the hardship there is ease
 7. So, when you are free (from collective services), toil hard (in worship)
 8. and towards your Lord turn with eagerness
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

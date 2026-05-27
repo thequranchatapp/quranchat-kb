@@ -86,8 +86,3 @@
 73. And those who used to fear their Lord will be led towards Jannah (Paradise) in groups, until when they reach it, while its gates will be (already) opened (for them), and its keepers will say to them, “Salāmun-’alaikum (peace be on you). How good are you! So, enter it to live here forever.”
 74. And they will say, “AlHamdulillāh : Praise belongs to Allah who made His promise come true for us, and made us inherit the territory, so as we can dwell anywhere we wish in Jannah (Paradise) . So, excellent is the reward of those who did (good) deeds
 75. And you will see the angels ringed around the Throne proclaiming the purity of their Lord, along with His praise, and matters will stand settled between them rightfully, and it will be said: “AlHamdulillāhi-rabbil‘ālamīn : Praise belongs to Allah, the Lord of the worlds.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

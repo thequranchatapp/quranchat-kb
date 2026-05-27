@@ -29,8 +29,3 @@
 16. Say, “Would you apprise Allah of your religion, while Allah knows all that is in the heavens and all that is in the earth, and Allah is All-Knowing about every thing?”
 17. They oblige you that they have accepted Islam, (as if it was a favour shown to you). Say, “Do not oblige me for your accepting Islam. Rather, Allah makes you obliged for His having guided you to the Faith, if you are truthful
 18. Surely Allah knows the Unseen of the heavens and the earth, and Allah keeps in sight whatever you do.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

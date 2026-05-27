@@ -546,9 +546,3 @@ In reply to this, Allah Ta’ ala said that this was also a bogus excuse, becaus
 There is a promise in this verse for both types of jihad, that Allah Ta’ ala guides those waging jihad to the righteous way. It means that when there is a 'confusion between evil and virtue, truth and false, and profit or loss, and a wise person wonders which way to adopt, on such occasions Allah Ta’ ala guides those striving in His way to the path which is straight, righteous and without risk. In other words, He turns their hearts toward a way that may bring the divine blessing and the best results.
 Knowledge improves if it is acted upon
 Sayyidna Abu Ad-Darda' ؓ while interpreting this verse has said that the people who strive for acting in accordance with their knowledge are promised by Allah Ta’ ala in this verse that He will disclose to them some other areas of knowledge that they did not have before. Fudayl Ibn ` Iyad (رح) has given yet another interpretation to this verse, that is, ` those who strive for knowledge, We make it easy for them to act'. (Mazhari). وَاللہُ سبحانَہُ و تعالیٰ اَعلَم
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

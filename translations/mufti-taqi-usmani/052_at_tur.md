@@ -60,8 +60,3 @@
 47. And for those who did wrong there is another punishment before that, but most of them do not know
 48. And (O Prophet) be patient about the decision of your Lord, because you are in front of Our Eyes. And proclaim the purity of your Lord along with His praise when you stand (in Prayer)
 49. And, in parts of night too, proclaim His purity, and at the time of setting of the stars
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

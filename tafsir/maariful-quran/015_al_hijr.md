@@ -836,9 +836,3 @@ From verses 97 and 98, we learn that should one face heart-rending sayings and d
 
 The Spiritual Defence Against Enemy Hostility
 From verses 97 and 98, we learn that should one face heart-rending sayings and doings of enemies the anxiety from which bothers him, then, there is a spiritual cure for that condition: Let him or her get busy with Tasbih and ` Ibadah, praising Allah Ta’ ala and praying before Him. Allah Taala will Himself remove this pain and anxiety.
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

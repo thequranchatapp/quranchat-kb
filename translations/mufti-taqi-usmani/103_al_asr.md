@@ -14,8 +14,3 @@
 1. (I swear) by the Time
 2. man is in a state of loss indeed
 3. except those who believed and did righteous deeds, and exhorted each other to follow truth, and exhorted each other to observe patience
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

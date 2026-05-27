@@ -41,8 +41,3 @@
 28. And they say, “When will this decision take place if you are truthful (in your claim)?”
 29. Say, “On the day of decision their belief will not be of any use to disbelievers, nor shall they be given any respite.”
 30. So, just ignore them (O prophet,) and wait. They (too) are waiting
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

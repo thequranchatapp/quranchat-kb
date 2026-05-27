@@ -122,8 +122,3 @@
 109. We did not send before you (messengers) other than men from the people of the towns whom We inspired with revelation. Have they not traveled in the land where they could have seen how was the fate of those before them? And surely the abode of the Hereafter is much better for those who fear Allah. Would you, then, still not understand
 110. (Punishment was often delayed) until when the messengers were in despair and thought that they were wrong in their estimation, Our help came to them, then saved were those whom We willed. And Our punishment is not averted from the guilty
 111. Surely, in the narratives of these, there is a lesson for the people of understanding. It is not an invented story, rather, a confirmation of what has been before it, and an elaboration of everything, and guidance and mercy for a people who believe
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

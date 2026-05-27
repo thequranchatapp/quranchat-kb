@@ -110,8 +110,3 @@
 97. We know that your heart feels distressed for what they say
 98. So, proclaim the purity and glory of your Lord, and be among those who prostrate themselves (before Allah)
 99. and worship your Lord until comes to you that which is certain
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

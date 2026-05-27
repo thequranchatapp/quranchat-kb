@@ -238,8 +238,3 @@
 225. Did you not see that they wander in every valley
 226. and that they say what they do not
 227. Except those who believe and do righteous deeds and remember Allah very much, and defend themselves after they are wronged. And the wrongdoers will soon know to which place they are going to return
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

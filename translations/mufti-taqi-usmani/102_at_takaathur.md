@@ -19,8 +19,3 @@
 6. You will certainly see the Hell
 7. then you will see it with full certitude
 8. Then you will be asked about all the pleasures (you enjoyed in the world)
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -57,8 +57,3 @@
 44. With your Lord is the final word about it
 45. You are only a warner for anyone who fears it
 46. The day they will see it, it will seem to them as if they did not live (in the world) but only for one afternoon or for the morning thereof
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

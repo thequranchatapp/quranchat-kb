@@ -16,8 +16,3 @@
 3. The Night of Qadr is much better than one thousand months
 4. The angels and the Spirit descend in it, with the leave of your Lord, along with every command
 5. Peace it is till the debut of dawn
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

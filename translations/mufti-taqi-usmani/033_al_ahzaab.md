@@ -84,8 +84,3 @@
 71. (If you do so,) Allah will correct your deeds for your benefit, and forgive your sins for you. Whoever obeys Allah and His Messenger achieves a great success
 72. We did offer the Trust to the heavens and the earth and the mountains, but they refused to bear its burden and were afraid of it, and man picked it up. Indeed he is unjust (to himself), unaware (of the end)
 73. The result (of all this) is that Allah will punish the hypocrites, men and women, and the Mushriks, men and women, and will accept the repentance of the believing men and women. Surely Allah is Most-Forgiving, Very-Merciful
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

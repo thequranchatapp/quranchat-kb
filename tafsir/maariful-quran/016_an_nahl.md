@@ -1225,9 +1225,3 @@ After that, once again in the last verse (128), a universal formula of having th
 إِنَّ اللَّـهَ مَعَ الَّذِينَ اتَّقَوا وَّالَّذِينَ هُم مُّحْسِنُونَ
 Surely, Allah is with those who fear Him and those who are good in deeds.
 The essence of this formula is that the help of Allah Ta’ ala is with people who have two virtues: Taqwa and Ihsan. The essence of Taqwa is acting righteously or being good in deed while the sense of Ihsan at this place is to be good to those created by Allah Ta’ ala, that is, those who are duty-bound to do righteous deeds and are particular in dealing with others nicely - Allah Tais with them. And it is obvious, if someone is-blessed with the 'company' (help) of Allah Ta’ ala, who can touch him!
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

@@ -19,8 +19,3 @@
 6. except those who believed and did righteous deeds, because for them there is a reward never ending
 7. So, what can make you, after all this, to deny the Requital
 8. Is Allah not the Greatest Ruler of all the rulers
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

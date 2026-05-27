@@ -23,8 +23,3 @@
 10. Allah has cited for the disbelievers the example of the wife of NūH and the wife of LūT. Both were married with two of Our righteous servants, but betrayed them. So they could not benefit them against Allah at all, and it was said, “Enter the Fire along with those who enter.”
 11. And Allah has cited for the believers the example of the wife of Fir’aun (Pharaoh), when she said, “My Lord, build for me, near You, a house in the Paradise, and deliver me from Fir’aun and his deeds, and deliver me from the unjust people.”
 12. And (Allah has also cited the example of) Maryam, daughter of ‘Imrān who guarded her chastity, so We breathed into her Our spirit, and she testified to the truth of the words of her Lord and His books, and she was one of the devout
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

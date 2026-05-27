@@ -39,8 +39,3 @@
 26. And said NūH, “My Lord, do not leave on earth even a single inhabitant (surviving) out of the disbelievers
 27. If You leave them (surviving), they will lead Your servants astray, and will beget none but a sinful disbeliever
 28. My Lord, grant pardon to me, and to my parents, and to everyone who enters my home as a believer, and to all the believing men and believing women, and do not increase the wrongdoers but in ruin
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

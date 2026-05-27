@@ -217,8 +217,3 @@
 204. When the Qur’ān is recited, listen to it and be silent, so that you may be blessed
 205. Remember your Lord in your heart with humility and awe, and without speaking loudly, in mornings and evenings, and do not be among the heedless
 206. Surely, those who are with your Lord (i.e. the angels) are not arrogant against His worship, and they proclaim His purity, and before Him they prostrate themselves
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

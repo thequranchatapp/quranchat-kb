@@ -104,8 +104,3 @@
 91. I am but ordered to worship the Lord of this city, which is sanctified by Him. And to Him belongs every thing, and I am ordered to be one of the Muslims (who submit themselves to Allah)
 92. and to recite the Qur’ān; so whoever takes the right path, takes it for his own benefit. As for the one who goes astray, say (to him), “I am only one of the warners.”
 93. And say, “Praise belongs to Allah. He will show you His signs, then you will recognize them.” And your Lord is not unaware of what you do
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

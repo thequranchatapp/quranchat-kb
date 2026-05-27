@@ -65,8 +65,3 @@
 52. Say (to the disbelievers), “Tell me, if it (the Qur’ān) is from Allah, and still you reject it, then who can be more erroneous than him who is (involved) in far reaching schism?”
 53. We will show them Our signs in the universe and within their own beings until it will become manifest to them that it is the truth. Is it not enough about your Lord that He is witness to everything
 54. Beware, they are in doubt about meeting their Lord. Beware, He is the One who encompasses everything
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

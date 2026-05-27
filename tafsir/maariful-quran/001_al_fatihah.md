@@ -26,10 +26,3 @@ A major theme in Mufti Shafi's commentary is that guidance is the greatest gift 
 
 ### 4. The Essence of the Quran
 The commentary reinforces the traditional view that Al-Fatihah is *Umm al-Kitab* (the Mother of the Book). It is described as a concise summary of the fundamental principles of the religion, encompassing theology (*Tawhid*), the relationship between Allah and His creation, and the methodology of worship and supplication.
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full PDF Archive:** [Internet Archive - Maariful Quran English 8 Volumes](https://archive.org/details/MaarifulQuranEnglsih8Volumes)
-

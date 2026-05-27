@@ -61,8 +61,3 @@
 48. And when it is said to them, “Bow down (i.e. submit to Allah’s commands)”, they do not bow down
 49. Woe that Day to the deniers
 50. Now, in which discourse, after this, will they believe
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -187,8 +187,3 @@
 174. O people, a proof has come to you from your Lord, and We have sent down to you a vivid light
 175. Now those who believe in Allah and hold on to Him - He shall admit them into Mercy from Him, and Grace, and shall lead them to Himself through a straight path
 176. They seek a ruling from you. Say, “Allah gives you the ruling concerning Kalālah . If a person dies having no son, but he does have a sister, then, she will get one half of what he leaves. (On the other hand) He will inherit her if she has no child. If they are two (sisters), they will get two third of what he leaves. If they are brothers and sisters, both male and female, then, the male will get a share equal to that of two females.” Allah explains to you, lest you should go astray. Allah has full knowledge of everything
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

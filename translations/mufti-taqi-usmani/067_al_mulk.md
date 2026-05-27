@@ -41,8 +41,3 @@
 28. Say, “Tell me, if Allah destroys me and those who are with me (as you wish), or has mercy on us (as we wish), who can (in either case) save the disbelievers from a painful punishment?”
 29. Say, “He is the RaHmān; we have believed in Him, and in Him we placed our trust. So, you will soon come to know who is in open error.”
 30. Say, “Tell me, Should your water vanish into the earth, who will bring you a flowing (stream of) water
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

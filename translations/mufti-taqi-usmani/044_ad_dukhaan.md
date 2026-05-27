@@ -70,8 +70,3 @@
 57. as a favour from your Lord. That is the great achievement
 58. So, We had made it (the Qur’ān) easy in your tongue, so that they may take lesson
 59. Now wait. They too are waiting
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -1375,9 +1375,3 @@ Praised be Allah, from the beginning to the end.
 A personal postscript by the author
 While writing these lines, this humble servant of Allah has completed full seventy five years of his age on 21 Sha` ban, 1390 Hijrah. Year seventy-six opens amidst diseases of different kinds including the natural weakness that sets in at this age. Then there is the mass of things to do and problems to resolve. Who can look forward to the task of writing beyond this point for it would be hoping against hope. But, when it comes to the service of the Qur'an things become different. When some-one does something in the name of the Qur’ an, no matter how insignificant, it becomes for a servant of Allah a matter of good fortune and honour. This thought led me to begin the Tafsir of Surah al-Kahf with the name of Allah. The idea was to take whatever it was possible to do during the years of life left as sufficient and good enough, because the purpose is not to finish the Qur'an, the purpose is to consume one's years and energy into the Qur'an. And Allah is the Over of ability and the helper of the effort made in His way.
 (Abridged from the detailed note)
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

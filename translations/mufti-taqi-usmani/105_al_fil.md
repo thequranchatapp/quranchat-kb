@@ -16,8 +16,3 @@
 3. And He sent upon them flying birds in flocks
 4. throwing upon them stones of baked clay
 5. and thus He turned them into an eaten-up chaff
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

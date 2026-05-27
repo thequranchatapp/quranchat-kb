@@ -63,8 +63,3 @@
 50. And surely, it is a cause of remorse for the disbelievers
 51. And it is surely an absolute truth
 52. So, pronounce the purity of the name of your magnificent Lord
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

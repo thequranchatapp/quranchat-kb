@@ -601,9 +601,3 @@ As based on a narration of Sayyidna Thawban ؓ ، it has been reported in the Sa
 From here we also learn that people will be transferred from the present earth over to the other through the Bridge of Sirat. And Ibn Jarir has reported from several Sahabah and Tabi` in in his Tafsir that the present earth and all its rivers will turn into fire at that time. In other words, all this territory which now holds the population of the world will become the territory of Hell. However, the reality of things is known to Allah Ta` ala alone. A servant of His can do nothing but to live by his commitment to Him and not go about seeking the cause of His workings.
 In verses 50 and 51 towards the end, given there is the state in which the people of Jahannam will find themselves. Culprits will be shackled together in chains, that is, each group huddled separately and then shackled together. And the dress they would be made to wear will be from 'Qatiran' which is a highly inflammable tar-like oil and would catch fire instantly.
 Finally, in the last verse (52), it was made clear that the description of conditions to be faced by people on the day of Qiyamah was to warn them so that they would realize that there is no Being worthy of worship and obedience except the One Being of Allah T, and so that whoever from among them has some sense left in him or her would desist from Shirk while there was still the time to do so.
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

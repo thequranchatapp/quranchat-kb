@@ -30,8 +30,3 @@
 17. while the Hereafter is much better and much more durable
 18. Indeed this is (written) in the earlier divine scripts
 19. the scripts of Ibrāhīm and Mūsā
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

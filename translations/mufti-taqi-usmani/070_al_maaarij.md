@@ -55,8 +55,3 @@
 42. So, leave them involved in pastime and play until they encounter their Day, which they are promised
 43. the Day they will come out of the graves quickly, as if they were rushing toward idols
 44. with their eyes downcast, enveloped by ignominy. That is the Day, which they were being promised
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

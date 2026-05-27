@@ -16,8 +16,3 @@
 3. He will soon enter a Fire, full of flames
 4. and his wife as well,-the wicked carrier of firewood
 5. Around her neck, there is (a collar of iron, like) a well-twisted rope
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

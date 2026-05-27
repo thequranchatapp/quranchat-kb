@@ -109,8 +109,3 @@
 96. Surely, those who believe and do righteous deeds, for them the All-Merciful (Allah) will create love
 97. So We have made it (the Qur’ān) easy through your tongue, so that you give with it the good news to the God-fearing, and warn with it an obstinate people
 98. And how many a generation We have destroyed before them! Do you sense (the presence of) any one of them, or hear from them even a whisper
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

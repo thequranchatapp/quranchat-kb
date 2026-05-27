@@ -99,8 +99,3 @@
 86. You were not expecting that the Book would be sent down to you, but it was a mercy from your Lord. So, never be a supporter for the infidels
 87. And let them not prevent you from Allah’s verses after they are sent down to you, and call (people) to your Lord, and never become one of those who associate partners with Allah
 88. And do not invoke any other god along with Allah. There is no god but He. Every thing is going to perish except His Face. He alone has the right to judge, and to Him you are to be returned
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

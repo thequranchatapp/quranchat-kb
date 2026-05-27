@@ -23,8 +23,3 @@
 10. Allah has prepared for them a severe punishment; so fear Allah O men of understanding who have believed! Allah has sent down to you a Reminder
 11. a messenger who recites to you the verses of Allah, making (the truth) clear, so that He may bring forth those who believe and do righteous deeds from the layers of darkness into the light. And whoever believes in Allah, and acts righteously, He will admit him to the gardens beneath which rivers flow, wherein such people will live forever. Allah has made for him a good provision
 12. Allah is the One who has created seven skies, and their like from earth. The Command descends among them, so that you may know that Allah is powerful over every thing, and that Allah has encompassed every thing in knowledge
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

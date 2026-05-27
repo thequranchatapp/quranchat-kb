@@ -32,8 +32,3 @@
 19. while no one has conferred any favour on him for which he would give a return
 20. but (he gave his wealth in charity) only to seek the Countenance of his Lord, the Most High
 21. And surely he will soon be happy
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

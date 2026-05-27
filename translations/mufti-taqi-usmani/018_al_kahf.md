@@ -121,8 +121,3 @@
 108. where they will live forever, and will not wish to move from there.”
 109. Say, “If the ocean were to be ink for (writing) the Words of my Lord, the ocean would have been consumed before the Words of my Lord are exhausted, even though we were to bring another (ocean) like it in addition.”
 110. Say, “Surely, I am but a human being like you; it is revealed to me that your God is the One God. So the one who hopes to meet his Lord must do righteous deed and must not associate anyone in the worship of his Lord.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -46,8 +46,3 @@
 33. Have they not seen that Allah who has created the heavens and the earth, and was not wearied by their creation, does have power to give life to the dead? Yes of course, He is powerful to do every thing
 34. The day the disbelievers will be presented to the Fire, (it will be said to them,) “Is this not true?” They will say, “Yes of course, Our Lord!” He will say, “Then taste the punishment, for you used to disbelieve.”
 35. So, (O prophet,) observe patience, as the resolute messengers observed patience, and be not in haste about them. The Day they will see what they are promised, (it will be) as if they did not stay (in the world) more than an hour in a single day. This is a message. So, none will be destroyed except the sinners
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

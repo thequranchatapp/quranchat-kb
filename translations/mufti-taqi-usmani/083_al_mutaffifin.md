@@ -47,8 +47,3 @@
 34. So, today those who believed will laugh at the disbelievers
 35. While (sitting) on thrones, they will be seeing
 36. whether the disbelievers have been paid back for what they used to do
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

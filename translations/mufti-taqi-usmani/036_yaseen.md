@@ -94,8 +94,3 @@
 81. Is it that the One who has created the heavens and the earth has no power to create ones like them? Why not? He is the Supreme Creator, the All-Knowing
 82. His practice, when He intends to do something, is no more than He says, “Be”, and it comes to be
 83. So, pure (from every fault) is the One in whose hand is the dominion of all things. And towards Him you are to be returned
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

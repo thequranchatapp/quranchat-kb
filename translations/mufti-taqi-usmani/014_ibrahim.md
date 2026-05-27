@@ -63,8 +63,3 @@
 50. their shirts will be of rosin, and their faces will be covered with Fire
 51. so that Allah repays everyone in full whatever he earned. Indeed, Allah is swift at reckoning
 52. This is a message for mankind, so that they (take lesson and) be warned, and so that they may know that He is One God, and so that the people of understanding may observe the advice
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

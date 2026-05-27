@@ -35,8 +35,3 @@
 22. He is Allah, besides whom there is no god, the Knower of the unseen and the seen. He is All-Merciful, Very-Merciful
 23. He is Allah, besides whom there is no god, the Sovereign, the Supreme-In-Holiness, the Safe (from all defects), the Giver-Of-Peace, the Guardian, the All-Mighty, the All-Repairer, the Sublime. Pure is Allah from what they associate with Him
 24. He is Allah, the Creator, the Inventor, the Shaper. His are the Most Beautiful Names. His purity is proclaimed by all that is in the heavens and the earth, and He is the All-Mighty, the All-Wise
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

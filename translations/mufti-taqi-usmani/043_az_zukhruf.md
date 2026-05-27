@@ -100,8 +100,3 @@
 87. And if you ask them as to who has created them, they will certainly say, “Allah”. Then, to where are they driven back (by their false desires)
 88. And (Allah has the knowledge) of his (prophet’s) saying, “O my Lord, these are a people who do not believe.”
 89. So, turn away from them, and say, “Salām !” (good-bye!). Then, soon they will come to know (the end of their attitude)
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

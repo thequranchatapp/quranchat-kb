@@ -48,8 +48,3 @@
 35. That is because you took Allah’s verses as a laughing stock, and the worldly life deceived you.” So today they will neither be brought out of it, nor will they be asked to repent
 36. So, to Allah belongs all praise, who is the Lord of the heavens and the earth, the Lord of the worlds
 37. And to Him belongs majesty in the heavens and the earth. And He is the Mighty, the Wise
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

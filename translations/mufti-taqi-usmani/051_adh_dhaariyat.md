@@ -71,8 +71,3 @@
 58. In fact, Allah is the All-Sustainer, Possessor of power, the Strong
 59. So, those who did wrong will have their turn like the turn of their counterparts. So, they should not ask Me to hasten on
 60. Woe, then, to those who disbelieve because of the Day of theirs that they are promised (for punishment)
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

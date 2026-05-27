@@ -176,8 +176,3 @@
 163. For Him there is no partner. And thus I have been commanded, and I am the first one to submit.”
 164. Say, “Should I seek a lord other than Allah while He is the Lord of everything? And nobody does anything but to his own account, and no bearer of burden shall bear the burden of another. Then to your Lord is your return. Then He will let you know what you were disputing about.”
 165. It is He who made you the vicegerents of the earth and raised some of you in ranks over others, so that He may test you in what He has given you. Surely, your Lord is swift in punishing, and surely He is Most-Forgiving, Very-Merciful
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

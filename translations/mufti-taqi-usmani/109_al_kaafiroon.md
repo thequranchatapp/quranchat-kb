@@ -17,8 +17,3 @@
 4. And neither I am going to worship that which you have worshipped
 5. nor will you worship the One whom I worship
 6. For you is your faith, and for me, my faith.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -19,8 +19,3 @@
 6. That day the people will come back (from the place of reckoning) in different groups, so that they may be shown (the fruits of) their deeds
 7. So, whoever does any good act (even) to the weight of a particle will see it
 8. And whoever does evil (even) to the weight of a particle will see it
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

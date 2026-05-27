@@ -80,8 +80,3 @@
 67. Did they not see that We have made a peaceful sanctuary (Haram ) while (other) people around them are being snatched away? Do they still believe in falsity and reject Allah’s grace
 68. Who is more unjust than the one who forges a lie against Allah or rejects the truth when it comes to him? Is there not in Jahannam a home for disbelievers
 69. As for those who strive in Our way, We will certainly take them onto Our paths, and indeed Allah is with those who are good in deeds
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

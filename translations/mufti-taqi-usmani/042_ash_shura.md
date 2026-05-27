@@ -64,8 +64,3 @@
 51. It is not (possible) for a human being that Allah speaks to him, except by way of revelation, or from behind a curtain, or that He sends a messenger, and he reveals, with His permission, what He wills. Surely, He is All-High, All-Wise
 52. In similar way, We have revealed to you a Spirit from Our command. You did not know earlier what was the Book or what was Īmān (true faith), but We have made it (the Qur’ān) a light with which We guide whomsoever We will from among Our servants. And indeed you are guiding (people) to a straight path
 53. the path of Allah, the One to whom belongs all that is in the heavens and all that is in the earth. Be aware that towards Allah all matters shall finally return
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

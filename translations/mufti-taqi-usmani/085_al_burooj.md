@@ -33,8 +33,3 @@
 20. Allah has encompassed them from all sides
 21. The reality is that it is the glorious Qur’ān
 22. (recorded) in the Preserved Tablet (LauH MaHfūZ)
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

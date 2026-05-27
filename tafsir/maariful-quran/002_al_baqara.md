@@ -4288,9 +4288,3 @@ Our Lord, do not place on us a burden such as You have placed on those before us
 Indicated here are the severe restrictions placed on the Bani Isra'il (Israelites), such as, a piece of cloth could not be made fully pure unless cut or burnt, or that repentance could not be accepted without killing. Alternately, it could mean that punishment should not visit us as it visited the Bani Isra'il following their evil deeds.
 In short, Allah Almighty bestowed His best when He promised the acceptance of all these prayers through His Rasul ﷺ ، the last among the prophets, may the peace and blessings of Allah be upon him.
 و للہ الحمد اول و آخرہ و ظاہرہ و باطنہ و ھو المستعا
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

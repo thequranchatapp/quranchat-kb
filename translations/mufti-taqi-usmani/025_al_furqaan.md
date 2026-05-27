@@ -88,8 +88,3 @@
 75. Such people will be rewarded with the high place - because they observed patience - and will be received therein with prayers of their eternal life and peace
 76. living in it (the Paradise) for ever. It is best as an abode and as a place to dwell in
 77. Say (O Prophet), “My Lord will never care about you, if you will not invoke Him. Now since you rejected (the truth), the punishment will be inseparable from you.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

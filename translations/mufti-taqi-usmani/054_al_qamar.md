@@ -66,8 +66,3 @@
 53. And every thing, small and big, is written down
 54. Of course, the God-fearing will be in gardens and rivers
 55. in a seat of Truth, near to the Omnipotent Sovereign
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

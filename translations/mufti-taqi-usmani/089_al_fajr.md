@@ -41,8 +41,3 @@
 28. come back to your Lord, well-pleased, well-pleasing
 29. So, enter among My (special) servants
 30. and enter My Paradise.”
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

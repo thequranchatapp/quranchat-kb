@@ -51,8 +51,3 @@
 38. Then he became a clot of blood, then He created (him) and made (him) perfect
 39. and made from him two kinds, male and female
 40. Has He no power to give life to the dead
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

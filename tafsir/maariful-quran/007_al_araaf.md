@@ -2360,9 +2360,3 @@ Therefore, when you are in a state of sajdah, pray most ardently, for it is stro
 Let us bear in mind that Sajdah, by itself, is not a recognized act of ` Ibadah. Therefore, according to Imam Abu Hanifah, prostrating in Sajdah abundantly means that one should offer nafl Salah abundantly. An increased number of nafl Salah would naturally result in an increased number of Sajdahs.
 But, if a person were to go in Sajdah alone and supplicate after that, it really does not matter. As for the instruction to supplicate in Sajdah, it is particular to Nafl Salats. It is not mandatory.
 Surah al-A` raf ends here. Its last verse is an Ayah of Sajdah (requiring the person reciting and the person listening to prostrate in Sajdah). According to a report from Sayyidna Abu Hurairah al appearing in Sahih Muslim, the Holy Prophet ﷺ said, ` when a son of Adam recites a verse of Sajdah and then prostrates in Sajdah, the Shaitan runs crying. He says: Alas, man was asked to prostrate in Sajdah and when he obeyed, Paradise became his home, and I was asked to prostrate in Sajdah and when I disobeyed, Hell became my home.'
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

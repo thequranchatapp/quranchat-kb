@@ -1340,9 +1340,3 @@ But, the heat in the belly of the fish had left no hair on his body. Allah Ta’
 And signaled by Allah Ta` ala, a wild goat would come every morning and evening, stand near him and he would have milk to drink.
 Thus, Sayyidna Yunus 	علیہ السلام was alerted to that slip, and later on, his people too came to know the whole story.
 In this story, as for parts that have been mentioned in the Qur'an, or stand proved from authentic narratives of Hadith, they are certain. The rest of them come from historical reports - and no ruling of Islamic law can be based on them.
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

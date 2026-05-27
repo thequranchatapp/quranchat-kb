@@ -37,8 +37,3 @@
 24. Allah will punish him with the greatest torment
 25. Surely towards Us they have to return
 26. then it is Our job to call them to account
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

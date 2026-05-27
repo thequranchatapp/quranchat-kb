@@ -339,9 +339,3 @@ Finally, Allah addresses the Prophet ﷺ ; to say:
 فَسَبِّحْ بِاسْمِ رَ‌بِّكَ الْعَظِيمِ 'So, pronounce the purity of the name of your magnificent Lord.' [ 69:52]. This signifies that the Prophet ﷺ should not pay any heed to the criticisms of the obdurate disbelievers nor should he feel distressed. He should rather pronounce the purity of Allah's name. This will relieve his distress and grief. On another occasion, the Qur'an says:
 وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُ‌كَ بِمَا يَقُولُونَ فَسَبِّحْ بِحَمْدِ رَ‌بِّكَ وَكُن مِّنَ السَّاجِدِينَ 'And We know that your heart feels distressed for what they say. [ 15:97-98]. So, proclaim the purity, and glory of your Lord and be among those who prostrate. [ 98] ' The Prophet is advised not to pay any attention to the disbelievers talking nonsense. The best remedy for his distress and grief is to glorify Allah, praise Him and prostrate before Him.
 Abu Dawud records a narration from Sayyidna 'Uqbah bin Amir Juhani ؓ that when the verse, فَسَبِّحْ بِاسْمِ رَ‌بِّكَ الْعَظِيمِ 'So, pronounce the purity of the name of your magnificent Lord. [ 521' was revealed, the Prophet ﷺ instructed this tasbih to be reserved for the posture of ruku` and when the verse سَبِّحِ اسْمَ رَ‌بِّكَ الْأَعْلَى 'Pronounce the purity of the name of your most Exalted Lord. [ 87:1] ' was revealed, he instructed this tasbih to be reserved for the posture of sajdah. Therefore, by common consent of the Ummah these tasbihat are recited in ruku` and sajdah respectively. According to overwhelming majority, it is Sunnah to recite them and repeat them thrice. Some scholars say it is obligatory.
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

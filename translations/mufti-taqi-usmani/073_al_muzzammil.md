@@ -31,8 +31,3 @@
 18. whereby the sky will burst apart. His promise has to be fulfilled
 19. Indeed, this is a reminder; so let anyone who so wishes, adopt a way to his Lord
 20. Your Lord knows that you stand (in prayer) for nearly two thirds of the night, and (at times) for half of it, and (at times) for one third of it, and (so do) a group of those who are with you. And Allah measures the night and the day. He knows that you (O Muslims,) cannot do it in regular way; therefore He turned to you in mercy.Now, recite as much of the Qur’ān as is easy (for you). He knows that some of you may be sick, and others traveling in the land, seeking the grace of Allah, and yet others fighting in Allah’s way. Therefore, recite as much of it as is easy. And establish Salāh, and pay Zakāh, and advance to Allah a goodly loan. And whatever good you will send ahead for your own-selves, you will find it with Allah much better in condition, and much greater in reward. And seek forgiveness from Allah. Indeed Allah is Most-Forgiving, Very-Merciful
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

@@ -22,8 +22,3 @@
 9. Does he not then know (what will happen) when all that is contained in the graves will be overturned
 10. and all that is contained in the hearts will be exposed
 11. Surely your Lord, that day, is fully aware of them
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

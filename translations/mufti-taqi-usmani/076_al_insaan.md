@@ -42,8 +42,3 @@
 29. Indeed, this is a reminder; so let anyone who so wishes, adopt a way to his Lord
 30. And you will not so wish unless Allah so wills. Indeed Allah is All-Knowing, All-Wise
 31. He admits whomsoever He wills to His mercy. As for the wrongdoers, He has prepared for them a painful punishment
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

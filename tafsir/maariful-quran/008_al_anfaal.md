@@ -860,9 +860,3 @@ The last sentence of this last verse of Surah Al-Anfal has abrogated the law of 
 Surah Al-Anfal ends here. May Allah Ta` ala give us all the Taufiq (تَوفِیق)of understanding it and acting in accordance with it.
 Praised is Allah with whose help “ Surah al-'Anfal” comes to its conclusion the night of Thursday, 22nd of Jumada II, Hijrah Year 1381. I seek from Allah Ta` ala His Taufiq and help in the Tafsir of Surah at-Taubah and for Allah is all praise from its beginning to its end --- Muhammad Shafi, may he be forgiven.
 A review of it was completed on the day of Jumu'ah, 19th of Jumada I, Hijrah Year 1390 and praised be Allah for that.
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

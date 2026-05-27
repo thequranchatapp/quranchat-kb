@@ -73,8 +73,3 @@
 60. and laugh (at it), and not weep
 61. while you are engaged in vain play
 62. Now, fall down in prostration and worship (Allah)
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

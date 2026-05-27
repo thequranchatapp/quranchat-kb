@@ -22,8 +22,3 @@
 9. his abode will be Abyss
 10. And what may let you know what that (Abyss) is
 11. A blazing Fire
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

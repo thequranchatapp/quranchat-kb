@@ -45,8 +45,3 @@
 32. And when they are covered by waves like canopies, they pray to Allah, having faith exclusively in Him. Then, once He brings them safe to the land, some of them remain balanced, (while others turn ungrateful by denying Allah’s signs.) And no one denies Our signs except every ungrateful traitor
 33. O people, fear your Lord and fear a day when no father will help his son, nor will a son be helpful to his father at all. Surely, the promise of Allah is true. So, the worldly life must not deceive you, nor should you ever be deceived about Allah by the Deceiver
 34. Surely, it is Allah with whom rests the knowledge of the Hour; and He sends down the rain, and He knows what is in the wombs. No one knows what he will earn tomorrow, and no one knows in which land he will die. Surely, Allah is All Knowing, All Aware
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

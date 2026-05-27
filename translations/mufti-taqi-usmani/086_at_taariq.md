@@ -28,8 +28,3 @@
 15. They are devising plans
 16. and I Am devising plans
 17. So leave the disbelievers alone at the moment; give them respite for a while
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

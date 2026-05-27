@@ -67,8 +67,3 @@
 54. Never! Indeed, this is a Reminder
 55. So, whoever so wishes may take advice from it
 56. And they will not take advice unless Allah so wills. He is worthy to be feared, and worthy to forgive
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)

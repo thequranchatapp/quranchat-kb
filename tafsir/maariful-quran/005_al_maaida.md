@@ -2044,9 +2044,3 @@ A person who performs Salah openly, then, does it well; and when performs it in 
 3.	The words appearing after that are: ذَٰلِكَ الْفَوْزُ الْعَظِيمُ (That is the great achievement). Indeed, so it is. When Allah Jalla Sha'nuhu, the Master, the Creator is pleased with you, what else could it be?
 فَلِلَّہِ الحَمدُ اَوَّلَہ وَ اٰخِرَہ
 All praises are for Allah from the beginning to the end.
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

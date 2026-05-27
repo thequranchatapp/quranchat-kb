@@ -401,9 +401,3 @@ Other exegetes, like Qurtubi and others, interpret this to mean: 'the one who is
 ### Verse 78
 
 تَبَارَ‌كَ اسْمُ رَ‌بِّكَ ذِي الْجَلَالِ وَالْإِكْرَ‌امِ (Glorious is the name of your Lord, the Lord of Majesty, the Lord of Honor....55:78) Surah Ar-Rahman is replete with verses that call attention to Allah's blessings, boons and bounties, and His favors upon man. In conclusion, this verse has been appended as a synopsis: What can one say about the Pure Being? Even His Name is Glorious. All Divine boons and bounties subsist by virtue of His Name. Allah, the Pure and the Most High, knows best!
-
----
-
-## Dataset Source
-- **Searchable Text:** [IslamicStudies.info — Tafseer Ma'ariful Qur'an](http://www.islamicstudies.info/tafseer/maharif.yahoo.php)
-- **Full Digital Dataset:** [spa5k/tafsir_api (Ma'ariful Qur'an English Edition)](https://github.com/spa5k/tafsir_api/tree/main/tafsir/en-tafsir-maarif-ul-quran)

@@ -33,8 +33,3 @@
 20. Indeed, those who oppose Allah and His Messenger, they are among the lowest
 21. Allah has written (in His pre-destined decree), “I will certainly prevail, both I and My messengers.” Surely Allah is All-Strong, All-Mighty
 22. You will not find those who believe in Allah and in the Hereafter having friendship with those who oppose Allah and His Messenger, even though they may be their fathers or their sons or their brothers or their clan. They are such that Allah has inscribed faith on their hearts, and has supported them with a spirit from Him. He will admit them to gardens beneath which rivers flow, in which they will live forever. Allah is pleased with them, and they are pleased with Allah. Those are the party of Allah. Be assured that it is (the members of) the party of Allah that are the successful
-
----
-
-## Dataset Source
-- **Full Digital Dataset:** [fawazahmed0/quran-api (Mufti Taqi Usmani Edition)](https://github.com/fawazahmed0/quran-api/tree/1/editions/eng-muftitaqiusmani.json)
